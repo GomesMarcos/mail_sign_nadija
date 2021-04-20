@@ -1,4 +1,4 @@
-# mail_sign_nadija
+# mail_sign_nadjla
 
 ### Para usar essa assinatura basta selecionar o HTML renderizado e colar no campo de assinatura.
 
